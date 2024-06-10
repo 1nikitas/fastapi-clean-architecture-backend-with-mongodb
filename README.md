@@ -53,9 +53,11 @@
 
 1. Клонируйте репозиторий:
         
-    `git clone https://github.com/shaliamekh/clean-architecture-fastapi.git cd clean-architecture-fastapi`
+    `git clone https://github.com/1nikitas/fastapi-clean-architecture-backend-with-mongodb.git
+     cd clean-architecture-fastapi
+    `
     
-2. Установите зависимости:
+3. Установите зависимости:
     
     `pip install -r requirements.txt`
     
