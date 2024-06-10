@@ -53,9 +53,12 @@
 
 1. Клонируйте репозиторий:
         
-    `git clone https://github.com/1nikitas/fastapi-clean-architecture-backend-with-mongodb.git
+   `git clone https://github.com/1nikitas/fastapi-clean-architecture-backend-with-mongodb.git
+   `
+2. Переходим в рабочую директорию:
+   `
      cd clean-architecture-fastapi
-    `
+   `
     
 3. Установите зависимости:
     
