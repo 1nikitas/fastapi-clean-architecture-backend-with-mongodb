@@ -75,3 +75,6 @@
 2. Запустите контейнер:
     
     `docker run -d -p 8000:8000 clean-architecture-fastapi`
+
+# TODO:
+1. Добавить комментарии
